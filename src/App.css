@@ -1,5 +1,17 @@
-body{
+/* body{
   margin-top: 85px;
+} */
 
+.img {
+  display: block;
+  position: fixed;
+  background-position: center !important;
+  width: 100%;
 }
 
+.custom{
+  text-align: center;
+  font-size: 500%;
+  font-weight: 600;
+  margin-top: 200px;
+}
